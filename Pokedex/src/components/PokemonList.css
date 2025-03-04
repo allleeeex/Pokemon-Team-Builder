@@ -1,0 +1,9 @@
+.list { 
+    font-family: 'TT Commons Pro Variable','Segoe UI','Arial',sans-serif;
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 2%;
+}

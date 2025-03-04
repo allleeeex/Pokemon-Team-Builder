@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    flex-direction: row;
+    flex-wrap: wrap;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    gap: 10px;
+    min-width: 10%;
+    max-width: 10%;
+    font-family: 'TT Commons Pro Variable','Segoe UI','Arial',sans-serif;
+}
+
+.main:hover {
+    background-color: #f3f4f6;
+}
